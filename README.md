@@ -10,6 +10,8 @@
 
 - Make sure you have Python 3.10.9 or later installed.
 
+- Download newest version from releases. (Currently: v1.0)
+
 - Open `install.bat` to install requirements. (will open hookdestroyer after installed)
 
 - If you want to open the program after the requirements are installed, run `open.bat`.
