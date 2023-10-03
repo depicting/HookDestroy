@@ -18,4 +18,4 @@
 
 ## Credits
 
-@r3nko & @ledged
+@depicting & @ledged
